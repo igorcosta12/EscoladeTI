@@ -1,5 +1,5 @@
 # EscoladeTI
 
-# Gabriel Rodrigues
-# Igor Costa
-# Nathan Rodrigues
+Gabriel Rodrigues
+Igor Costa
+Nathan Rodrigues
